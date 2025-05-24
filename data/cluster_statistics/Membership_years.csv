@@ -1,0 +1,5 @@
+mean,min,max,Cluster,Description
+8.14,2.0,10.0,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+3.75,1.0,10.0,1,Khách hàng trẻ - tiềm năng cao
+5.53,1.0,10.0,2,Khách hàng lớn tuổi chi tiêu cao
+4.37,1.0,10.0,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"

@@ -1,0 +1,1001 @@
+age,gender,spending_score,membership_years,purchase_frequency,preferred_category,last_purchase_amount,Cluster,Cluster_Description
+38,Female,90,3,24,Groceries,113.53,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+21,Female,60,2,42,Sports,41.93,1,Khách hàng trẻ - tiềm năng cao
+60,Female,30,2,28,Clothing,424.36,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+40,Other,74,9,5,Home & Garden,991.93,2,Khách hàng lớn tuổi chi tiêu cao
+65,Female,21,3,25,Electronics,347.08,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+31,Other,24,3,30,Home & Garden,86.85,1,Khách hàng trẻ - tiềm năng cao
+19,Other,68,5,43,Clothing,191.72,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+43,Male,94,9,27,Groceries,734.56,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+53,Male,29,6,7,Sports,951.71,2,Khách hàng lớn tuổi chi tiêu cao
+55,Female,55,7,2,Electronics,821.18,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+23,Other,16,7,24,Clothing,434.97,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+68,Other,91,1,49,Groceries,889.94,2,Khách hàng lớn tuổi chi tiêu cao
+29,Female,81,3,27,Home & Garden,101.07,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+64,Other,46,4,3,Sports,221.35,2,Khách hàng lớn tuổi chi tiêu cao
+33,Male,17,5,8,Home & Garden,915.89,1,Khách hàng trẻ - tiềm năng cao
+53,Male,17,6,26,Clothing,225.4,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+57,Male,29,5,13,Clothing,378.47,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+22,Male,22,1,31,Sports,844.08,1,Khách hàng trẻ - tiềm năng cao
+37,Male,90,6,21,Home & Garden,454.83,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+31,Male,70,3,17,Groceries,61.3,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+19,Female,13,4,4,Home & Garden,742.39,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+22,Male,74,10,47,Home & Garden,799.31,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+36,Other,68,1,16,Sports,806.55,1,Khách hàng trẻ - tiềm năng cao
+41,Other,87,7,9,Clothing,482.2,2,Khách hàng lớn tuổi chi tiêu cao
+69,Female,78,5,39,Sports,508.86,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+33,Other,60,10,39,Groceries,83.27,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+54,Male,10,9,4,Groceries,124.29,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+30,Female,19,7,27,Sports,515.88,1,Khách hàng trẻ - tiềm năng cao
+18,Female,78,7,1,Home & Garden,191.9,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+23,Male,30,4,20,Electronics,950.56,1,Khách hàng trẻ - tiềm năng cao
+36,Other,16,8,27,Clothing,970.06,2,Khách hàng lớn tuổi chi tiêu cao
+60,Female,69,2,18,Electronics,197.29,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+29,Male,2,6,47,Electronics,91.94,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+44,Other,89,4,37,Groceries,76.95,2,Khách hàng lớn tuổi chi tiêu cao
+45,Other,54,10,48,Sports,639.22,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+30,Female,37,1,6,Clothing,532.51,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+47,Male,78,4,38,Electronics,128.2,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+48,Other,89,7,50,Electronics,967.99,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+31,Female,43,4,29,Sports,88.44,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+22,Male,14,5,41,Home & Garden,98.86,1,Khách hàng trẻ - tiềm năng cao
+23,Male,31,1,48,Home & Garden,713.33,1,Khách hàng trẻ - tiềm năng cao
+52,Male,70,2,34,Clothing,192.66,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+35,Male,6,6,45,Home & Garden,165.18,1,Khách hàng trẻ - tiềm năng cao
+28,Other,79,5,50,Home & Garden,956.73,1,Khách hàng trẻ - tiềm năng cao
+50,Male,45,4,31,Home & Garden,753.6,1,Khách hàng trẻ - tiềm năng cao
+49,Other,28,5,42,Clothing,214.93,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+56,Male,40,6,8,Electronics,355.34,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+48,Male,94,9,3,Electronics,189.28,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+19,Other,65,5,10,Sports,28.55,1,Khách hàng trẻ - tiềm năng cao
+68,Female,96,2,18,Groceries,673.79,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+61,Female,83,9,35,Clothing,110.32,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+24,Female,83,4,36,Sports,589.35,1,Khách hàng trẻ - tiềm năng cao
+45,Other,73,9,16,Groceries,893.44,2,Khách hàng lớn tuổi chi tiêu cao
+33,Female,84,9,38,Home & Garden,332.34,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+56,Female,55,2,41,Sports,774.5,1,Khách hàng trẻ - tiềm năng cao
+42,Other,50,4,13,Sports,903.07,2,Khách hàng lớn tuổi chi tiêu cao
+63,Other,7,9,20,Electronics,195.34,2,Khách hàng lớn tuổi chi tiêu cao
+49,Female,48,5,24,Sports,843.87,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+43,Female,12,7,1,Electronics,806.26,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+21,Female,1,5,7,Clothing,399.58,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+23,Male,14,6,7,Groceries,224.86,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+30,Other,87,10,36,Clothing,174.41,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+49,Female,49,8,6,Sports,636.65,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+50,Female,31,1,19,Electronics,319.05,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+27,Other,36,2,2,Sports,494.55,1,Khách hàng trẻ - tiềm năng cao
+32,Male,69,3,29,Home & Garden,686.05,1,Khách hàng trẻ - tiềm năng cao
+36,Female,75,5,7,Electronics,335.98,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+43,Female,52,9,41,Clothing,95.08,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+32,Male,88,5,16,Electronics,103.33,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+49,Other,32,9,49,Sports,495.62,1,Khách hàng trẻ - tiềm năng cao
+23,Female,60,1,18,Electronics,77.73,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+58,Other,30,3,50,Groceries,880.23,1,Khách hàng trẻ - tiềm năng cao
+31,Female,21,1,5,Groceries,552.21,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+38,Female,63,8,9,Home & Garden,92.69,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+58,Other,56,8,42,Groceries,57.57,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+60,Female,68,8,28,Home & Garden,522.95,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+49,Male,4,1,36,Groceries,990.0,1,Khách hàng trẻ - tiềm năng cao
+32,Other,20,7,10,Clothing,41.55,2,Khách hàng lớn tuổi chi tiêu cao
+30,Other,27,3,14,Groceries,476.25,1,Khách hàng trẻ - tiềm năng cao
+68,Other,54,4,40,Electronics,738.6,2,Khách hàng lớn tuổi chi tiêu cao
+65,Other,90,9,39,Electronics,812.36,2,Khách hàng lớn tuổi chi tiêu cao
+36,Female,60,1,17,Groceries,15.66,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+36,Female,94,8,15,Sports,265.04,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+56,Male,77,9,35,Electronics,13.16,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+19,Male,43,3,14,Clothing,392.36,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+31,Other,24,6,31,Home & Garden,120.8,1,Khách hàng trẻ - tiềm năng cao
+59,Male,3,10,48,Home & Garden,755.92,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+31,Male,20,7,31,Sports,59.84,1,Khách hàng trẻ - tiềm năng cao
+18,Other,8,7,4,Clothing,746.18,2,Khách hàng lớn tuổi chi tiêu cao
+45,Other,80,4,8,Home & Garden,754.24,2,Khách hàng lớn tuổi chi tiêu cao
+32,Other,16,1,47,Home & Garden,209.86,1,Khách hàng trẻ - tiềm năng cao
+39,Other,67,6,28,Home & Garden,930.36,2,Khách hàng lớn tuổi chi tiêu cao
+65,Male,83,8,11,Electronics,230.58,2,Khách hàng lớn tuổi chi tiêu cao
+46,Other,7,10,13,Clothing,190.55,2,Khách hàng lớn tuổi chi tiêu cao
+30,Other,97,10,19,Sports,670.87,2,Khách hàng lớn tuổi chi tiêu cao
+23,Male,46,10,21,Clothing,377.31,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+63,Other,31,7,20,Electronics,582.57,2,Khách hàng lớn tuổi chi tiêu cao
+49,Male,99,9,26,Clothing,674.7,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+21,Other,45,3,32,Sports,795.84,1,Khách hàng trẻ - tiềm năng cao
+26,Female,58,2,50,Clothing,23.33,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+40,Female,1,2,5,Groceries,241.91,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+18,Male,70,7,38,Groceries,127.14,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+19,Male,50,7,32,Clothing,532.51,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+60,Female,4,2,1,Sports,29.58,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+20,Other,7,2,45,Clothing,597.15,1,Khách hàng trẻ - tiềm năng cao
+55,Female,37,7,27,Electronics,941.67,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+19,Other,59,6,30,Sports,873.8,1,Khách hàng trẻ - tiềm năng cao
+65,Male,72,9,21,Home & Garden,633.63,2,Khách hàng lớn tuổi chi tiêu cao
+57,Female,90,8,44,Electronics,179.8,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+56,Female,86,7,38,Home & Garden,627.65,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+37,Male,33,5,34,Sports,756.32,1,Khách hàng trẻ - tiềm năng cao
+64,Male,85,7,20,Clothing,930.73,2,Khách hàng lớn tuổi chi tiêu cao
+58,Male,33,7,20,Groceries,450.72,2,Khách hàng lớn tuổi chi tiêu cao
+32,Male,4,5,36,Sports,415.44,1,Khách hàng trẻ - tiềm năng cao
+64,Male,11,5,21,Electronics,69.78,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+59,Male,89,7,42,Home & Garden,451.82,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+62,Male,44,4,31,Electronics,668.91,2,Khách hàng lớn tuổi chi tiêu cao
+62,Male,36,9,44,Home & Garden,755.67,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+33,Male,75,8,46,Groceries,895.58,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+68,Female,12,2,49,Clothing,848.14,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+47,Female,50,5,21,Groceries,884.19,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+43,Male,66,6,23,Electronics,138.51,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+26,Other,29,9,37,Sports,50.57,1,Khách hàng trẻ - tiềm năng cao
+30,Male,94,8,17,Home & Garden,553.35,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+66,Other,58,1,23,Clothing,960.08,2,Khách hàng lớn tuổi chi tiêu cao
+26,Female,60,9,29,Electronics,389.37,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+58,Male,90,5,18,Sports,405.05,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+40,Other,70,10,45,Electronics,370.75,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+67,Other,64,1,17,Sports,957.06,2,Khách hàng lớn tuổi chi tiêu cao
+61,Female,25,7,26,Clothing,714.15,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+51,Male,70,9,28,Sports,914.97,2,Khách hàng lớn tuổi chi tiêu cao
+67,Female,78,10,28,Home & Garden,11.29,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+25,Other,85,8,49,Groceries,764.28,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+26,Male,91,6,18,Sports,70.56,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+29,Female,85,8,29,Clothing,480.87,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+31,Male,25,10,37,Sports,378.4,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+48,Male,49,6,46,Sports,179.25,1,Khách hàng trẻ - tiềm năng cao
+67,Female,66,2,21,Clothing,798.2,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+18,Female,33,8,23,Groceries,316.27,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+18,Female,84,3,26,Clothing,453.34,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+23,Other,85,9,40,Electronics,673.02,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+37,Male,13,5,45,Home & Garden,18.49,1,Khách hàng trẻ - tiềm năng cao
+55,Other,73,9,24,Groceries,624.81,2,Khách hàng lớn tuổi chi tiêu cao
+41,Female,49,3,10,Home & Garden,421.24,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+44,Other,29,10,25,Electronics,898.68,2,Khách hàng lớn tuổi chi tiêu cao
+58,Other,17,5,12,Electronics,855.21,2,Khách hàng lớn tuổi chi tiêu cao
+69,Male,2,10,29,Electronics,518.7,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+47,Female,91,2,6,Home & Garden,979.41,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+34,Other,89,3,19,Groceries,273.34,2,Khách hàng lớn tuổi chi tiêu cao
+54,Male,29,6,42,Clothing,335.15,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+55,Other,86,5,22,Electronics,368.75,2,Khách hàng lớn tuổi chi tiêu cao
+45,Female,20,1,1,Home & Garden,215.41,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+43,Male,61,8,40,Groceries,711.04,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+30,Other,43,4,2,Electronics,933.73,2,Khách hàng lớn tuổi chi tiêu cao
+53,Other,58,2,32,Electronics,880.78,2,Khách hàng lớn tuổi chi tiêu cao
+24,Female,77,4,25,Home & Garden,663.21,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+69,Female,59,2,37,Clothing,762.41,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+61,Other,36,3,26,Groceries,393.6,2,Khách hàng lớn tuổi chi tiêu cao
+58,Other,70,5,24,Home & Garden,722.18,2,Khách hàng lớn tuổi chi tiêu cao
+36,Other,28,5,49,Home & Garden,367.97,1,Khách hàng trẻ - tiềm năng cao
+69,Female,18,1,15,Sports,762.55,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+64,Other,75,1,17,Sports,771.33,2,Khách hàng lớn tuổi chi tiêu cao
+45,Male,72,5,41,Sports,228.88,1,Khách hàng trẻ - tiềm năng cao
+60,Other,37,8,42,Sports,520.37,2,Khách hàng lớn tuổi chi tiêu cao
+64,Other,10,4,47,Home & Garden,184.45,1,Khách hàng trẻ - tiềm năng cao
+41,Female,19,10,36,Groceries,566.65,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+18,Other,61,10,16,Clothing,18.6,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+36,Other,82,9,2,Clothing,14.52,2,Khách hàng lớn tuổi chi tiêu cao
+51,Female,95,5,33,Sports,115.09,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+37,Male,60,8,39,Groceries,975.1,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+21,Male,13,3,43,Home & Garden,82.88,1,Khách hàng trẻ - tiềm năng cao
+19,Male,25,4,34,Groceries,696.59,1,Khách hàng trẻ - tiềm năng cao
+56,Female,96,8,38,Home & Garden,631.06,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+47,Other,89,5,9,Home & Garden,861.66,2,Khách hàng lớn tuổi chi tiêu cao
+33,Female,86,1,16,Sports,160.11,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+34,Male,62,2,24,Sports,843.15,1,Khách hàng trẻ - tiềm năng cao
+65,Other,30,2,35,Electronics,218.74,2,Khách hàng lớn tuổi chi tiêu cao
+67,Female,75,5,27,Electronics,94.32,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+45,Female,57,8,39,Groceries,263.93,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+48,Male,30,3,35,Home & Garden,624.36,1,Khách hàng trẻ - tiềm năng cao
+49,Male,83,3,6,Groceries,208.79,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+40,Male,36,6,25,Electronics,625.28,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+43,Female,95,4,49,Home & Garden,223.39,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+27,Male,8,10,42,Groceries,35.01,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+41,Female,91,6,27,Home & Garden,401.63,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+40,Other,84,10,41,Groceries,426.62,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+35,Male,32,6,24,Electronics,111.27,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+55,Male,14,2,16,Sports,286.79,1,Khách hàng trẻ - tiềm năng cao
+45,Male,62,1,35,Electronics,940.93,1,Khách hàng trẻ - tiềm năng cao
+41,Other,68,1,16,Electronics,504.16,2,Khách hàng lớn tuổi chi tiêu cao
+35,Male,80,2,27,Electronics,23.73,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+63,Other,48,10,50,Electronics,26.85,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+69,Female,10,6,27,Groceries,377.66,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+69,Male,95,10,42,Clothing,931.51,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+67,Other,79,8,13,Electronics,261.07,2,Khách hàng lớn tuổi chi tiêu cao
+48,Male,5,6,35,Home & Garden,410.05,1,Khách hàng trẻ - tiềm năng cao
+34,Female,66,10,26,Home & Garden,610.66,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+39,Male,76,9,21,Groceries,32.38,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+45,Female,30,10,15,Groceries,81.91,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+63,Female,47,9,22,Clothing,279.96,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+45,Male,28,9,49,Groceries,628.43,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+25,Male,16,8,44,Sports,971.09,1,Khách hàng trẻ - tiềm năng cao
+66,Other,41,6,9,Home & Garden,354.46,2,Khách hàng lớn tuổi chi tiêu cao
+49,Male,53,6,27,Home & Garden,436.43,1,Khách hàng trẻ - tiềm năng cao
+27,Male,78,8,42,Electronics,825.01,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+34,Male,18,3,19,Electronics,947.73,1,Khách hàng trẻ - tiềm năng cao
+58,Male,75,10,40,Sports,324.91,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+59,Female,62,3,10,Clothing,49.53,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+60,Female,24,5,39,Home & Garden,544.04,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+47,Other,24,10,3,Electronics,406.56,2,Khách hàng lớn tuổi chi tiêu cao
+40,Female,89,7,11,Clothing,356.35,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+18,Other,20,1,41,Home & Garden,215.95,1,Khách hàng trẻ - tiềm năng cao
+47,Female,29,9,28,Sports,706.37,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+33,Male,43,2,49,Home & Garden,956.03,1,Khách hàng trẻ - tiềm năng cao
+69,Other,93,4,45,Electronics,339.9,2,Khách hàng lớn tuổi chi tiêu cao
+26,Other,27,5,46,Electronics,761.08,1,Khách hàng trẻ - tiềm năng cao
+46,Female,19,2,45,Sports,635.93,1,Khách hàng trẻ - tiềm năng cao
+55,Female,24,9,16,Electronics,169.79,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+57,Male,82,9,24,Clothing,563.64,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+69,Male,90,7,29,Electronics,559.73,2,Khách hàng lớn tuổi chi tiêu cao
+62,Male,51,8,37,Clothing,155.14,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+67,Other,3,2,26,Clothing,868.18,2,Khách hàng lớn tuổi chi tiêu cao
+53,Female,12,6,45,Sports,915.02,1,Khách hàng trẻ - tiềm năng cao
+51,Female,12,2,2,Groceries,139.07,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+54,Female,18,7,14,Electronics,238.87,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+19,Female,48,8,28,Home & Garden,278.21,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+65,Male,71,10,34,Electronics,840.45,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+53,Male,27,7,16,Home & Garden,345.62,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+19,Other,90,5,35,Groceries,515.99,1,Khách hàng trẻ - tiềm năng cao
+56,Male,40,4,25,Electronics,197.54,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+24,Female,44,7,45,Electronics,204.27,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+66,Male,41,7,24,Groceries,66.6,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+41,Female,22,6,31,Groceries,212.53,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+29,Female,45,7,24,Sports,479.36,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+19,Female,21,1,22,Groceries,132.88,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+42,Other,79,9,31,Sports,537.66,2,Khách hàng lớn tuổi chi tiêu cao
+62,Other,22,3,14,Electronics,821.42,2,Khách hàng lớn tuổi chi tiêu cao
+64,Other,19,4,23,Groceries,949.32,2,Khách hàng lớn tuổi chi tiêu cao
+64,Female,41,9,41,Groceries,924.18,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+44,Female,33,6,27,Groceries,640.96,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+41,Female,50,8,5,Sports,35.16,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+31,Female,74,3,18,Electronics,947.76,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+25,Other,6,4,30,Electronics,923.64,1,Khách hàng trẻ - tiềm năng cao
+47,Female,84,6,19,Home & Garden,911.0,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+28,Other,19,5,15,Home & Garden,922.01,1,Khách hàng trẻ - tiềm năng cao
+44,Male,31,6,32,Electronics,464.42,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+54,Other,28,9,25,Sports,244.79,2,Khách hàng lớn tuổi chi tiêu cao
+28,Other,57,8,35,Sports,17.97,1,Khách hàng trẻ - tiềm năng cao
+54,Female,98,9,42,Sports,894.21,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+47,Male,52,5,10,Home & Garden,21.43,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+43,Male,27,10,30,Electronics,223.64,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+25,Other,70,2,37,Groceries,556.23,1,Khách hàng trẻ - tiềm năng cao
+49,Other,25,7,21,Groceries,271.52,2,Khách hàng lớn tuổi chi tiêu cao
+66,Other,98,9,44,Home & Garden,827.44,2,Khách hàng lớn tuổi chi tiêu cao
+27,Other,69,8,22,Clothing,150.58,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+46,Other,55,9,22,Clothing,486.25,2,Khách hàng lớn tuổi chi tiêu cao
+26,Male,19,3,28,Sports,935.64,1,Khách hàng trẻ - tiềm năng cao
+37,Other,74,3,10,Electronics,624.29,2,Khách hàng lớn tuổi chi tiêu cao
+68,Male,59,2,35,Groceries,12.36,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+39,Female,82,6,19,Sports,759.6,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+39,Other,96,7,41,Sports,25.44,1,Khách hàng trẻ - tiềm năng cao
+60,Other,18,2,47,Electronics,599.66,1,Khách hàng trẻ - tiềm năng cao
+64,Other,68,9,28,Electronics,934.88,2,Khách hàng lớn tuổi chi tiêu cao
+57,Female,75,3,8,Electronics,611.79,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+63,Male,77,10,44,Clothing,785.29,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+53,Other,68,10,8,Home & Garden,543.31,2,Khách hàng lớn tuổi chi tiêu cao
+57,Female,42,9,12,Home & Garden,999.74,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+23,Other,29,3,41,Groceries,484.85,1,Khách hàng trẻ - tiềm năng cao
+33,Female,100,9,48,Sports,21.9,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+28,Female,75,9,49,Electronics,109.03,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+69,Male,14,2,10,Groceries,874.32,2,Khách hàng lớn tuổi chi tiêu cao
+52,Female,6,5,15,Clothing,192.31,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+47,Other,74,9,17,Home & Garden,886.08,2,Khách hàng lớn tuổi chi tiêu cao
+60,Other,68,4,48,Clothing,730.8,2,Khách hàng lớn tuổi chi tiêu cao
+22,Other,88,5,20,Clothing,609.57,2,Khách hàng lớn tuổi chi tiêu cao
+39,Female,43,1,28,Groceries,261.36,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+53,Other,38,5,11,Clothing,997.24,2,Khách hàng lớn tuổi chi tiêu cao
+63,Male,24,6,14,Clothing,764.05,2,Khách hàng lớn tuổi chi tiêu cao
+47,Other,63,2,30,Electronics,634.19,2,Khách hàng lớn tuổi chi tiêu cao
+53,Female,96,1,14,Clothing,577.0,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+61,Other,46,4,42,Home & Garden,802.44,2,Khách hàng lớn tuổi chi tiêu cao
+34,Male,9,10,26,Clothing,835.06,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+33,Male,27,9,46,Electronics,886.3,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+43,Male,27,3,36,Electronics,223.98,1,Khách hàng trẻ - tiềm năng cao
+63,Female,20,1,26,Sports,169.58,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+51,Male,66,2,43,Clothing,184.8,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+31,Male,69,2,22,Clothing,486.21,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+56,Male,69,2,41,Home & Garden,98.83,1,Khách hàng trẻ - tiềm năng cao
+38,Male,70,7,27,Sports,631.28,1,Khách hàng trẻ - tiềm năng cao
+43,Male,61,1,19,Electronics,680.92,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+45,Female,32,6,41,Clothing,934.34,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+62,Other,63,5,22,Home & Garden,723.93,2,Khách hàng lớn tuổi chi tiêu cao
+45,Other,72,3,47,Sports,553.44,1,Khách hàng trẻ - tiềm năng cao
+47,Other,43,1,35,Clothing,547.85,2,Khách hàng lớn tuổi chi tiêu cao
+18,Other,79,7,18,Electronics,871.12,2,Khách hàng lớn tuổi chi tiêu cao
+56,Other,23,3,48,Sports,98.85,1,Khách hàng trẻ - tiềm năng cao
+40,Male,47,4,9,Sports,101.35,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+39,Male,40,5,37,Sports,82.16,1,Khách hàng trẻ - tiềm năng cao
+59,Male,5,6,31,Groceries,82.77,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+55,Other,38,2,23,Groceries,652.26,2,Khách hàng lớn tuổi chi tiêu cao
+52,Female,2,6,19,Groceries,412.65,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+50,Other,39,5,25,Home & Garden,69.81,2,Khách hàng lớn tuổi chi tiêu cao
+59,Female,33,7,42,Electronics,492.87,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+50,Female,93,9,47,Electronics,559.16,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+32,Male,50,6,13,Sports,844.22,1,Khách hàng trẻ - tiềm năng cao
+48,Male,82,5,27,Sports,463.07,1,Khách hàng trẻ - tiềm năng cao
+26,Other,81,2,12,Home & Garden,126.35,1,Khách hàng trẻ - tiềm năng cao
+54,Female,14,3,46,Electronics,685.09,1,Khách hàng trẻ - tiềm năng cao
+64,Female,44,4,8,Groceries,509.31,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+50,Male,45,7,29,Sports,139.39,1,Khách hàng trẻ - tiềm năng cao
+53,Male,45,5,22,Electronics,154.06,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+30,Male,38,8,30,Sports,684.43,1,Khách hàng trẻ - tiềm năng cao
+69,Other,47,4,33,Electronics,315.49,2,Khách hàng lớn tuổi chi tiêu cao
+44,Male,55,2,50,Groceries,897.57,1,Khách hàng trẻ - tiềm năng cao
+68,Female,27,8,17,Electronics,85.45,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+20,Female,47,2,49,Electronics,506.7,1,Khách hàng trẻ - tiềm năng cao
+18,Other,84,1,10,Electronics,539.74,2,Khách hàng lớn tuổi chi tiêu cao
+23,Other,45,5,12,Electronics,592.72,2,Khách hàng lớn tuổi chi tiêu cao
+61,Other,67,9,5,Home & Garden,714.29,2,Khách hàng lớn tuổi chi tiêu cao
+34,Male,43,5,40,Clothing,117.01,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+43,Female,4,3,38,Sports,261.19,1,Khách hàng trẻ - tiềm năng cao
+46,Other,16,2,22,Home & Garden,85.56,1,Khách hàng trẻ - tiềm năng cao
+55,Other,44,2,49,Clothing,727.51,2,Khách hàng lớn tuổi chi tiêu cao
+30,Male,15,9,38,Home & Garden,937.85,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+41,Other,69,1,32,Home & Garden,456.67,1,Khách hàng trẻ - tiềm năng cao
+59,Other,100,2,42,Groceries,588.18,2,Khách hàng lớn tuổi chi tiêu cao
+50,Male,11,6,49,Clothing,801.59,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+41,Female,55,9,44,Groceries,488.07,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+68,Other,79,1,23,Groceries,122.02,2,Khách hàng lớn tuổi chi tiêu cao
+28,Male,60,4,42,Groceries,68.31,1,Khách hàng trẻ - tiềm năng cao
+30,Male,88,9,37,Groceries,555.41,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+38,Other,70,1,38,Sports,816.09,1,Khách hàng trẻ - tiềm năng cao
+21,Other,14,3,1,Sports,505.98,1,Khách hàng trẻ - tiềm năng cao
+58,Other,27,9,9,Groceries,249.39,2,Khách hàng lớn tuổi chi tiêu cao
+60,Male,83,3,31,Groceries,53.26,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+40,Other,96,7,16,Groceries,843.6,2,Khách hàng lớn tuổi chi tiêu cao
+58,Male,88,2,38,Groceries,67.52,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+42,Other,70,7,33,Home & Garden,592.52,2,Khách hàng lớn tuổi chi tiêu cao
+28,Female,92,9,50,Sports,205.58,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+48,Other,28,7,34,Groceries,463.78,2,Khách hàng lớn tuổi chi tiêu cao
+31,Other,45,10,9,Electronics,637.02,2,Khách hàng lớn tuổi chi tiêu cao
+69,Female,69,4,25,Clothing,532.23,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+32,Male,91,8,27,Home & Garden,265.17,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+41,Male,42,5,33,Home & Garden,239.72,1,Khách hàng trẻ - tiềm năng cao
+33,Male,27,10,9,Clothing,535.28,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+62,Female,14,7,11,Electronics,26.72,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+38,Female,36,5,20,Sports,279.77,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+39,Female,58,6,30,Home & Garden,211.56,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+44,Male,38,2,19,Sports,912.15,1,Khách hàng trẻ - tiềm năng cao
+56,Female,44,7,13,Electronics,326.5,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+68,Other,16,4,48,Groceries,85.44,1,Khách hàng trẻ - tiềm năng cao
+47,Female,57,4,2,Electronics,138.3,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+61,Other,100,10,47,Home & Garden,475.52,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+63,Other,57,4,25,Sports,857.68,2,Khách hàng lớn tuổi chi tiêu cao
+38,Other,68,5,6,Sports,349.35,2,Khách hàng lớn tuổi chi tiêu cao
+32,Other,88,9,30,Clothing,703.94,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+49,Other,34,5,41,Clothing,253.63,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+57,Male,18,1,21,Electronics,862.12,2,Khách hàng lớn tuổi chi tiêu cao
+50,Male,19,2,25,Groceries,910.52,1,Khách hàng trẻ - tiềm năng cao
+38,Male,91,7,27,Electronics,617.64,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+28,Female,98,5,37,Electronics,612.09,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+21,Male,32,5,38,Home & Garden,533.18,1,Khách hàng trẻ - tiềm năng cao
+26,Other,51,4,37,Home & Garden,685.36,1,Khách hàng trẻ - tiềm năng cao
+63,Other,66,7,12,Sports,971.02,2,Khách hàng lớn tuổi chi tiêu cao
+21,Other,42,4,23,Home & Garden,278.15,1,Khách hàng trẻ - tiềm năng cao
+19,Other,84,8,32,Clothing,735.3,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+65,Female,91,5,12,Clothing,782.55,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+53,Female,74,10,39,Home & Garden,217.92,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+63,Other,20,2,37,Sports,648.38,1,Khách hàng trẻ - tiềm năng cao
+23,Female,99,9,26,Electronics,696.9,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+20,Male,93,4,3,Groceries,459.87,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+39,Female,71,5,16,Sports,372.03,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+30,Other,91,1,31,Electronics,930.97,2,Khách hàng lớn tuổi chi tiêu cao
+64,Other,69,10,28,Sports,212.08,2,Khách hàng lớn tuổi chi tiêu cao
+33,Female,11,4,29,Groceries,826.87,1,Khách hàng trẻ - tiềm năng cao
+25,Female,36,5,42,Electronics,389.97,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+46,Male,100,1,9,Home & Garden,617.74,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+45,Female,87,5,32,Home & Garden,388.15,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+41,Female,95,8,19,Clothing,78.82,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+59,Other,75,2,6,Sports,383.64,2,Khách hàng lớn tuổi chi tiêu cao
+67,Female,56,10,37,Sports,998.98,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+68,Other,45,5,22,Electronics,19.14,2,Khách hàng lớn tuổi chi tiêu cao
+65,Male,4,5,38,Sports,247.96,1,Khách hàng trẻ - tiềm năng cao
+46,Male,1,1,41,Home & Garden,329.9,1,Khách hàng trẻ - tiềm năng cao
+38,Male,73,7,20,Sports,665.25,1,Khách hàng trẻ - tiềm năng cao
+69,Male,57,6,28,Groceries,985.94,2,Khách hàng lớn tuổi chi tiêu cao
+51,Female,49,9,9,Electronics,785.55,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+25,Female,6,5,33,Electronics,832.57,1,Khách hàng trẻ - tiềm năng cao
+34,Other,99,4,47,Sports,122.21,1,Khách hàng trẻ - tiềm năng cao
+37,Male,89,3,2,Electronics,668.23,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+67,Female,57,3,19,Sports,670.51,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+28,Male,60,2,8,Home & Garden,362.41,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+55,Female,79,8,12,Clothing,632.6,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+69,Female,83,9,11,Clothing,341.63,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+69,Female,40,8,44,Home & Garden,866.72,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+54,Other,21,2,27,Groceries,846.76,2,Khách hàng lớn tuổi chi tiêu cao
+23,Other,11,8,31,Electronics,481.24,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+48,Male,14,10,3,Sports,210.43,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+19,Female,3,9,38,Groceries,596.63,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+41,Female,90,2,9,Clothing,688.61,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+32,Other,96,3,21,Electronics,643.36,2,Khách hàng lớn tuổi chi tiêu cao
+63,Male,66,9,7,Clothing,441.11,2,Khách hàng lớn tuổi chi tiêu cao
+40,Other,29,6,26,Groceries,144.78,1,Khách hàng trẻ - tiềm năng cao
+36,Male,39,10,16,Groceries,233.08,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+21,Male,12,2,20,Home & Garden,789.92,1,Khách hàng trẻ - tiềm năng cao
+29,Other,42,10,16,Home & Garden,862.54,2,Khách hàng lớn tuổi chi tiêu cao
+24,Other,78,4,6,Groceries,572.31,2,Khách hàng lớn tuổi chi tiêu cao
+40,Other,54,8,29,Clothing,831.6,2,Khách hàng lớn tuổi chi tiêu cao
+63,Female,59,6,10,Home & Garden,954.05,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+20,Female,12,5,37,Home & Garden,902.24,1,Khách hàng trẻ - tiềm năng cao
+43,Female,96,3,2,Clothing,114.47,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+61,Other,34,8,14,Clothing,937.86,2,Khách hàng lớn tuổi chi tiêu cao
+19,Female,9,7,10,Home & Garden,421.08,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+69,Female,6,4,9,Groceries,877.51,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+57,Male,53,3,36,Groceries,710.84,2,Khách hàng lớn tuổi chi tiêu cao
+38,Other,62,5,24,Sports,645.43,1,Khách hàng trẻ - tiềm năng cao
+52,Other,11,9,2,Home & Garden,714.72,2,Khách hàng lớn tuổi chi tiêu cao
+51,Female,48,10,31,Clothing,656.9,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+64,Other,40,4,42,Clothing,487.73,2,Khách hàng lớn tuổi chi tiêu cao
+46,Male,57,5,48,Home & Garden,817.69,1,Khách hàng trẻ - tiềm năng cao
+46,Female,56,4,39,Clothing,592.97,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+56,Other,46,7,12,Home & Garden,22.15,2,Khách hàng lớn tuổi chi tiêu cao
+62,Female,30,6,45,Electronics,159.13,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+56,Male,46,5,5,Groceries,394.49,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+41,Male,100,1,36,Electronics,178.68,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+40,Other,90,10,14,Electronics,866.52,2,Khách hàng lớn tuổi chi tiêu cao
+47,Female,11,10,11,Sports,877.17,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+54,Other,24,3,46,Groceries,824.65,1,Khách hàng trẻ - tiềm năng cao
+20,Male,29,6,19,Electronics,351.64,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+64,Other,74,2,3,Home & Garden,275.4,2,Khách hàng lớn tuổi chi tiêu cao
+40,Male,80,4,22,Groceries,15.04,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+29,Female,52,4,42,Clothing,916.28,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+44,Female,90,8,39,Electronics,769.0,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+57,Male,66,6,28,Electronics,984.6,2,Khách hàng lớn tuổi chi tiêu cao
+32,Female,76,1,9,Home & Garden,803.28,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+52,Other,87,5,20,Sports,322.29,2,Khách hàng lớn tuổi chi tiêu cao
+48,Other,44,5,20,Groceries,552.48,2,Khách hàng lớn tuổi chi tiêu cao
+47,Female,25,3,35,Electronics,273.38,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+63,Female,74,3,12,Sports,828.04,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+23,Female,71,9,36,Sports,799.33,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+46,Male,50,9,46,Clothing,392.35,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+26,Female,45,1,33,Clothing,219.67,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+47,Other,79,10,43,Electronics,171.38,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+62,Other,30,4,35,Clothing,121.0,2,Khách hàng lớn tuổi chi tiêu cao
+62,Female,68,4,46,Groceries,180.09,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+53,Male,29,7,37,Electronics,432.65,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+27,Other,83,8,33,Groceries,782.58,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+31,Female,72,7,2,Sports,59.82,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+50,Male,1,4,7,Home & Garden,371.62,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+48,Male,13,3,27,Electronics,694.59,1,Khách hàng trẻ - tiềm năng cao
+24,Other,65,4,28,Groceries,434.84,1,Khách hàng trẻ - tiềm năng cao
+45,Female,33,10,32,Sports,391.45,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+30,Male,83,8,17,Electronics,238.79,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+27,Male,31,2,32,Home & Garden,994.1,1,Khách hàng trẻ - tiềm năng cao
+28,Other,82,10,8,Electronics,26.12,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+61,Other,46,3,5,Clothing,604.29,2,Khách hàng lớn tuổi chi tiêu cao
+30,Other,47,1,49,Electronics,443.12,1,Khách hàng trẻ - tiềm năng cao
+62,Male,69,8,2,Groceries,468.37,2,Khách hàng lớn tuổi chi tiêu cao
+30,Other,96,2,5,Clothing,705.64,2,Khách hàng lớn tuổi chi tiêu cao
+55,Female,94,1,14,Sports,737.91,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+41,Male,100,4,20,Home & Garden,693.02,2,Khách hàng lớn tuổi chi tiêu cao
+57,Female,86,4,24,Electronics,800.46,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+53,Male,18,8,50,Clothing,634.92,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+65,Female,87,10,14,Sports,461.61,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+54,Female,48,6,20,Clothing,34.88,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+69,Other,14,8,2,Clothing,387.39,2,Khách hàng lớn tuổi chi tiêu cao
+25,Male,1,1,50,Groceries,937.86,1,Khách hàng trẻ - tiềm năng cao
+54,Male,73,2,44,Clothing,554.58,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+32,Other,84,10,32,Groceries,863.93,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+53,Other,92,6,39,Clothing,172.99,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+32,Male,59,10,47,Groceries,846.85,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+35,Other,27,3,41,Electronics,781.31,1,Khách hàng trẻ - tiềm năng cao
+53,Female,42,4,34,Home & Garden,795.81,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+54,Female,56,1,44,Groceries,216.09,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+36,Other,12,7,35,Groceries,590.32,1,Khách hàng trẻ - tiềm năng cao
+38,Male,23,1,28,Groceries,158.15,1,Khách hàng trẻ - tiềm năng cao
+42,Male,19,4,47,Sports,13.69,1,Khách hàng trẻ - tiềm năng cao
+48,Other,24,3,22,Home & Garden,594.94,2,Khách hàng lớn tuổi chi tiêu cao
+58,Female,19,9,21,Electronics,172.39,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+19,Female,62,4,24,Clothing,177.69,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+54,Male,17,9,37,Sports,173.81,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+65,Other,52,3,36,Clothing,70.22,2,Khách hàng lớn tuổi chi tiêu cao
+44,Female,55,6,33,Groceries,501.34,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+40,Male,44,4,17,Groceries,135.19,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+65,Male,85,9,42,Home & Garden,964.87,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+66,Other,71,5,9,Clothing,10.4,2,Khách hàng lớn tuổi chi tiêu cao
+22,Female,64,8,38,Home & Garden,151.48,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+47,Other,67,9,8,Clothing,885.33,2,Khách hàng lớn tuổi chi tiêu cao
+26,Female,19,1,5,Home & Garden,154.89,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+19,Female,38,5,35,Clothing,633.5,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+22,Female,70,1,24,Groceries,325.46,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+39,Male,100,8,49,Sports,906.07,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+51,Female,71,1,16,Clothing,542.03,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+35,Male,24,4,48,Sports,649.61,1,Khách hàng trẻ - tiềm năng cao
+59,Male,45,5,45,Sports,917.5,1,Khách hàng trẻ - tiềm năng cao
+33,Female,76,2,11,Sports,302.05,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+56,Male,48,6,43,Sports,422.32,1,Khách hàng trẻ - tiềm năng cao
+54,Female,56,5,50,Electronics,667.92,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+25,Male,61,7,40,Groceries,317.98,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+47,Male,16,7,42,Clothing,638.96,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+42,Male,73,5,2,Clothing,942.97,2,Khách hàng lớn tuổi chi tiêu cao
+61,Female,2,9,20,Electronics,177.64,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+22,Male,52,7,34,Electronics,154.67,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+18,Other,40,7,31,Electronics,240.64,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+22,Male,96,10,41,Electronics,491.64,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+66,Male,79,4,8,Sports,334.95,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+58,Male,91,8,6,Sports,275.71,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+48,Other,85,8,13,Sports,486.58,2,Khách hàng lớn tuổi chi tiêu cao
+68,Other,64,2,37,Sports,462.62,2,Khách hàng lớn tuổi chi tiêu cao
+19,Male,7,2,30,Sports,813.37,1,Khách hàng trẻ - tiềm năng cao
+24,Other,71,9,41,Sports,606.18,1,Khách hàng trẻ - tiềm năng cao
+33,Male,49,10,45,Sports,641.53,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+19,Male,10,5,41,Sports,406.32,1,Khách hàng trẻ - tiềm năng cao
+69,Female,40,2,15,Home & Garden,626.35,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+28,Male,8,10,22,Groceries,179.82,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+32,Other,95,6,3,Electronics,31.72,2,Khách hàng lớn tuổi chi tiêu cao
+18,Other,9,3,11,Groceries,588.37,1,Khách hàng trẻ - tiềm năng cao
+45,Female,85,4,21,Groceries,944.07,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+45,Female,64,4,48,Sports,926.69,1,Khách hàng trẻ - tiềm năng cao
+38,Male,1,6,6,Electronics,979.26,2,Khách hàng lớn tuổi chi tiêu cao
+69,Other,100,2,9,Home & Garden,75.03,2,Khách hàng lớn tuổi chi tiêu cao
+29,Female,96,3,13,Home & Garden,668.21,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+32,Female,4,5,16,Electronics,923.37,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+47,Other,13,9,40,Electronics,48.65,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+33,Female,19,2,8,Clothing,255.08,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+52,Male,64,1,34,Clothing,534.25,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+62,Female,37,3,48,Sports,112.11,1,Khách hàng trẻ - tiềm năng cao
+23,Female,75,1,9,Clothing,826.02,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+57,Male,39,5,50,Sports,34.5,1,Khách hàng trẻ - tiềm năng cao
+27,Male,63,1,28,Sports,36.39,1,Khách hàng trẻ - tiềm năng cao
+61,Male,44,7,11,Sports,573.31,2,Khách hàng lớn tuổi chi tiêu cao
+19,Male,38,9,45,Home & Garden,819.92,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+36,Other,74,1,27,Sports,377.75,1,Khách hàng trẻ - tiềm năng cao
+28,Male,44,3,16,Sports,482.35,1,Khách hàng trẻ - tiềm năng cao
+46,Other,3,4,3,Sports,213.68,2,Khách hàng lớn tuổi chi tiêu cao
+62,Female,49,2,18,Sports,933.65,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+48,Female,70,9,44,Home & Garden,192.46,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+39,Male,53,5,24,Groceries,728.58,2,Khách hàng lớn tuổi chi tiêu cao
+27,Male,11,8,23,Electronics,27.4,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+36,Male,88,8,49,Groceries,600.48,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+33,Female,16,3,4,Electronics,998.51,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+69,Other,70,1,1,Clothing,812.25,2,Khách hàng lớn tuổi chi tiêu cao
+68,Female,22,4,46,Groceries,954.91,1,Khách hàng trẻ - tiềm năng cao
+66,Female,3,1,32,Clothing,199.17,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+23,Female,80,4,19,Clothing,860.95,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+44,Other,37,7,18,Groceries,769.16,2,Khách hàng lớn tuổi chi tiêu cao
+60,Other,23,9,24,Electronics,506.98,2,Khách hàng lớn tuổi chi tiêu cao
+22,Female,42,6,6,Home & Garden,73.13,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+39,Male,32,6,48,Sports,863.47,1,Khách hàng trẻ - tiềm năng cao
+53,Male,85,2,45,Sports,338.69,1,Khách hàng trẻ - tiềm năng cao
+50,Male,83,3,17,Electronics,83.38,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+20,Male,100,5,5,Clothing,889.83,2,Khách hàng lớn tuổi chi tiêu cao
+69,Male,18,9,14,Sports,563.48,2,Khách hàng lớn tuổi chi tiêu cao
+61,Female,78,3,3,Home & Garden,886.44,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+66,Other,100,4,22,Sports,221.75,2,Khách hàng lớn tuổi chi tiêu cao
+25,Female,53,1,14,Groceries,73.34,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+45,Male,83,5,30,Home & Garden,845.33,2,Khách hàng lớn tuổi chi tiêu cao
+40,Male,84,4,28,Sports,149.07,1,Khách hàng trẻ - tiềm năng cao
+33,Male,17,7,28,Home & Garden,422.14,1,Khách hàng trẻ - tiềm năng cao
+63,Male,61,4,43,Home & Garden,390.89,1,Khách hàng trẻ - tiềm năng cao
+61,Other,92,5,8,Groceries,482.77,2,Khách hàng lớn tuổi chi tiêu cao
+18,Male,46,10,31,Groceries,143.75,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+23,Male,10,3,47,Groceries,361.81,1,Khách hàng trẻ - tiềm năng cao
+56,Other,18,3,31,Electronics,515.16,2,Khách hàng lớn tuổi chi tiêu cao
+68,Other,85,10,30,Electronics,854.95,2,Khách hàng lớn tuổi chi tiêu cao
+29,Male,56,4,27,Clothing,452.32,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+22,Other,75,7,49,Electronics,120.76,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+45,Female,58,8,5,Home & Garden,870.38,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+29,Female,43,6,24,Groceries,105.48,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+18,Other,69,8,48,Clothing,760.34,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+36,Female,40,4,6,Electronics,371.77,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+19,Male,95,7,44,Electronics,97.65,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+40,Female,6,8,26,Groceries,491.07,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+48,Other,30,7,5,Clothing,480.55,2,Khách hàng lớn tuổi chi tiêu cao
+49,Male,62,2,1,Clothing,962.9,2,Khách hàng lớn tuổi chi tiêu cao
+51,Female,96,1,31,Electronics,266.83,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+32,Female,92,5,9,Groceries,409.85,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+64,Male,59,10,35,Electronics,363.86,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+21,Female,17,10,12,Electronics,101.48,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+51,Female,99,1,12,Groceries,215.92,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+46,Male,56,10,27,Clothing,766.26,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+19,Male,50,4,49,Electronics,174.43,1,Khách hàng trẻ - tiềm năng cao
+33,Male,92,3,37,Home & Garden,626.82,1,Khách hàng trẻ - tiềm năng cao
+30,Male,23,9,6,Clothing,74.08,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+51,Female,6,5,14,Sports,706.18,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+62,Other,79,5,22,Electronics,203.15,2,Khách hàng lớn tuổi chi tiêu cao
+20,Other,80,2,14,Groceries,48.5,1,Khách hàng trẻ - tiềm năng cao
+47,Other,69,5,40,Home & Garden,772.89,2,Khách hàng lớn tuổi chi tiêu cao
+29,Other,33,6,15,Clothing,865.65,2,Khách hàng lớn tuổi chi tiêu cao
+33,Male,22,4,37,Sports,274.96,1,Khách hàng trẻ - tiềm năng cao
+53,Male,21,1,47,Electronics,734.48,1,Khách hàng trẻ - tiềm năng cao
+22,Male,4,5,10,Sports,459.58,1,Khách hàng trẻ - tiềm năng cao
+62,Female,41,9,32,Sports,980.47,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+29,Other,42,9,34,Sports,324.11,1,Khách hàng trẻ - tiềm năng cao
+28,Other,100,6,3,Groceries,728.67,2,Khách hàng lớn tuổi chi tiêu cao
+46,Male,2,4,29,Home & Garden,486.5,1,Khách hàng trẻ - tiềm năng cao
+50,Male,57,7,21,Home & Garden,930.91,2,Khách hàng lớn tuổi chi tiêu cao
+56,Other,58,7,30,Electronics,435.76,2,Khách hàng lớn tuổi chi tiêu cao
+41,Other,95,4,28,Clothing,936.04,2,Khách hàng lớn tuổi chi tiêu cao
+52,Male,76,8,26,Sports,13.46,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+53,Female,33,10,47,Groceries,523.27,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+20,Male,64,5,18,Electronics,495.49,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+33,Female,33,4,47,Clothing,251.23,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+47,Male,25,4,12,Home & Garden,237.34,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+18,Female,69,9,27,Electronics,141.72,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+39,Male,45,3,46,Home & Garden,415.19,1,Khách hàng trẻ - tiềm năng cao
+30,Male,88,5,47,Home & Garden,131.84,1,Khách hàng trẻ - tiềm năng cao
+41,Other,34,3,30,Home & Garden,460.25,1,Khách hàng trẻ - tiềm năng cao
+53,Other,29,4,5,Electronics,744.11,2,Khách hàng lớn tuổi chi tiêu cao
+23,Female,28,6,31,Home & Garden,98.32,1,Khách hàng trẻ - tiềm năng cao
+42,Female,72,4,40,Home & Garden,166.45,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+33,Female,39,10,43,Electronics,99.52,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+60,Other,73,3,5,Home & Garden,642.3,2,Khách hàng lớn tuổi chi tiêu cao
+64,Female,5,1,5,Clothing,25.86,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+69,Male,98,5,35,Electronics,616.66,2,Khách hàng lớn tuổi chi tiêu cao
+43,Male,55,3,24,Groceries,943.37,2,Khách hàng lớn tuổi chi tiêu cao
+29,Other,51,8,1,Clothing,906.75,2,Khách hàng lớn tuổi chi tiêu cao
+53,Other,13,2,39,Sports,66.6,1,Khách hàng trẻ - tiềm năng cao
+29,Other,39,5,50,Groceries,803.87,1,Khách hàng trẻ - tiềm năng cao
+53,Other,92,6,48,Sports,814.52,2,Khách hàng lớn tuổi chi tiêu cao
+20,Male,40,3,6,Electronics,777.44,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+33,Other,26,8,47,Sports,356.67,1,Khách hàng trẻ - tiềm năng cao
+30,Female,99,4,27,Clothing,320.95,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+59,Other,37,9,44,Clothing,483.66,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+41,Male,50,5,36,Home & Garden,490.62,1,Khách hàng trẻ - tiềm năng cao
+19,Male,8,9,15,Groceries,116.8,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+27,Female,22,3,10,Electronics,551.43,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+39,Other,63,2,23,Sports,411.86,1,Khách hàng trẻ - tiềm năng cao
+65,Male,83,7,46,Groceries,971.93,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+64,Female,76,2,48,Home & Garden,49.06,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+47,Female,37,7,38,Groceries,640.55,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+29,Female,41,5,31,Sports,507.62,1,Khách hàng trẻ - tiềm năng cao
+43,Female,14,6,49,Electronics,886.61,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+51,Other,50,8,23,Electronics,916.04,2,Khách hàng lớn tuổi chi tiêu cao
+23,Female,15,3,4,Electronics,248.68,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+24,Female,20,1,4,Clothing,636.29,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+52,Other,6,5,2,Home & Garden,704.32,2,Khách hàng lớn tuổi chi tiêu cao
+34,Female,95,3,38,Home & Garden,304.86,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+68,Male,70,8,46,Groceries,178.21,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+57,Male,28,6,42,Home & Garden,741.41,1,Khách hàng trẻ - tiềm năng cao
+59,Other,28,4,5,Sports,204.25,2,Khách hàng lớn tuổi chi tiêu cao
+34,Female,38,7,28,Electronics,647.35,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+64,Female,2,7,50,Sports,84.98,1,Khách hàng trẻ - tiềm năng cao
+54,Male,83,3,2,Sports,45.2,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+67,Other,10,1,36,Groceries,646.16,2,Khách hàng lớn tuổi chi tiêu cao
+62,Male,78,6,50,Electronics,720.47,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+24,Other,11,2,4,Electronics,838.19,2,Khách hàng lớn tuổi chi tiêu cao
+43,Female,49,2,6,Groceries,420.03,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+27,Male,96,3,26,Sports,26.1,1,Khách hàng trẻ - tiềm năng cao
+47,Other,32,8,27,Groceries,686.5,2,Khách hàng lớn tuổi chi tiêu cao
+27,Female,36,3,46,Electronics,499.07,1,Khách hàng trẻ - tiềm năng cao
+32,Other,34,6,41,Electronics,65.15,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+41,Male,35,7,14,Home & Garden,232.42,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+48,Male,97,1,35,Sports,204.55,1,Khách hàng trẻ - tiềm năng cao
+45,Other,70,6,9,Groceries,218.77,2,Khách hàng lớn tuổi chi tiêu cao
+33,Other,45,10,42,Clothing,132.6,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+27,Male,44,6,8,Electronics,654.05,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+61,Male,79,2,34,Clothing,762.06,2,Khách hàng lớn tuổi chi tiêu cao
+35,Other,38,10,11,Clothing,79.27,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+54,Female,14,4,11,Sports,138.81,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+69,Female,50,4,27,Sports,758.44,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+66,Other,40,10,7,Home & Garden,566.59,2,Khách hàng lớn tuổi chi tiêu cao
+30,Female,70,3,32,Groceries,760.27,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+56,Other,47,5,6,Groceries,725.26,2,Khách hàng lớn tuổi chi tiêu cao
+37,Male,26,5,47,Home & Garden,94.79,1,Khách hàng trẻ - tiềm năng cao
+31,Other,62,9,25,Sports,914.63,2,Khách hàng lớn tuổi chi tiêu cao
+29,Female,53,9,36,Clothing,30.13,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+27,Female,29,7,29,Sports,976.83,1,Khách hàng trẻ - tiềm năng cao
+52,Male,79,6,44,Clothing,95.17,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+55,Other,36,6,31,Home & Garden,900.16,2,Khách hàng lớn tuổi chi tiêu cao
+34,Male,27,2,17,Home & Garden,954.46,1,Khách hàng trẻ - tiềm năng cao
+30,Male,76,6,33,Home & Garden,596.98,1,Khách hàng trẻ - tiềm năng cao
+47,Female,36,1,4,Clothing,913.84,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+32,Other,14,5,39,Electronics,981.04,1,Khách hàng trẻ - tiềm năng cao
+64,Female,12,6,17,Home & Garden,126.15,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+64,Female,39,5,33,Groceries,451.86,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+51,Female,99,7,38,Groceries,808.89,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+63,Other,60,4,45,Home & Garden,943.5,2,Khách hàng lớn tuổi chi tiêu cao
+46,Female,6,10,27,Sports,559.73,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+36,Other,98,7,49,Clothing,55.21,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+49,Other,95,8,22,Electronics,143.0,2,Khách hàng lớn tuổi chi tiêu cao
+61,Male,27,7,2,Electronics,269.2,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+27,Female,54,10,37,Home & Garden,750.51,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+42,Male,8,9,18,Clothing,880.45,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+37,Male,64,9,49,Home & Garden,117.52,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+30,Male,78,2,48,Clothing,621.73,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+59,Male,22,2,36,Home & Garden,625.33,1,Khách hàng trẻ - tiềm năng cao
+30,Male,15,4,11,Sports,250.07,1,Khách hàng trẻ - tiềm năng cao
+69,Other,38,5,11,Clothing,830.03,2,Khách hàng lớn tuổi chi tiêu cao
+39,Female,50,4,46,Clothing,659.67,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+53,Other,93,8,1,Groceries,109.54,2,Khách hàng lớn tuổi chi tiêu cao
+23,Male,28,6,23,Electronics,800.78,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+28,Female,80,3,22,Groceries,471.87,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+64,Male,76,2,28,Sports,902.66,2,Khách hàng lớn tuổi chi tiêu cao
+45,Male,79,8,21,Electronics,40.32,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+61,Male,4,9,8,Groceries,795.49,2,Khách hàng lớn tuổi chi tiêu cao
+36,Female,99,7,6,Sports,217.78,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+33,Other,28,4,1,Electronics,612.54,2,Khách hàng lớn tuổi chi tiêu cao
+55,Other,64,2,19,Clothing,932.41,2,Khách hàng lớn tuổi chi tiêu cao
+31,Male,8,5,2,Electronics,984.15,2,Khách hàng lớn tuổi chi tiêu cao
+31,Male,34,9,32,Groceries,753.49,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+26,Female,92,9,50,Electronics,37.57,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+26,Female,61,3,12,Home & Garden,358.22,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+52,Female,14,2,47,Sports,104.35,1,Khách hàng trẻ - tiềm năng cao
+42,Male,23,9,35,Clothing,400.23,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+29,Female,68,3,39,Clothing,258.09,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+47,Female,42,5,22,Sports,219.02,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+68,Male,100,9,49,Clothing,170.56,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+44,Female,40,8,31,Clothing,140.52,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+43,Female,67,5,41,Electronics,179.71,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+43,Other,12,4,26,Sports,117.85,1,Khách hàng trẻ - tiềm năng cao
+18,Male,37,6,28,Home & Garden,428.33,1,Khách hàng trẻ - tiềm năng cao
+19,Female,26,6,20,Electronics,385.1,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+30,Male,54,2,36,Sports,789.67,1,Khách hàng trẻ - tiềm năng cao
+43,Other,71,10,35,Electronics,698.03,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+48,Female,23,10,46,Sports,626.27,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+47,Male,76,10,48,Clothing,233.64,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+57,Female,77,3,37,Home & Garden,623.78,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+21,Female,21,8,50,Sports,772.63,1,Khách hàng trẻ - tiềm năng cao
+69,Other,58,5,30,Electronics,103.11,2,Khách hàng lớn tuổi chi tiêu cao
+27,Male,66,10,38,Groceries,912.58,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+45,Male,99,1,42,Home & Garden,683.99,1,Khách hàng trẻ - tiềm năng cao
+20,Male,27,3,28,Groceries,658.54,1,Khách hàng trẻ - tiềm năng cao
+21,Other,28,3,7,Sports,397.54,1,Khách hàng trẻ - tiềm năng cao
+48,Female,3,8,39,Clothing,15.72,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+40,Other,39,9,17,Home & Garden,347.21,2,Khách hàng lớn tuổi chi tiêu cao
+18,Other,2,6,49,Home & Garden,348.51,1,Khách hàng trẻ - tiềm năng cao
+28,Other,39,5,30,Groceries,591.64,1,Khách hàng trẻ - tiềm năng cao
+50,Male,77,8,11,Sports,964.1,2,Khách hàng lớn tuổi chi tiêu cao
+19,Male,77,8,29,Home & Garden,381.04,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+53,Female,12,5,33,Groceries,444.09,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+29,Other,85,2,8,Electronics,743.3,2,Khách hàng lớn tuổi chi tiêu cao
+49,Male,6,8,29,Electronics,604.53,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+23,Other,7,6,40,Electronics,322.64,1,Khách hàng trẻ - tiềm năng cao
+38,Other,10,7,25,Clothing,632.99,2,Khách hàng lớn tuổi chi tiêu cao
+52,Female,76,10,14,Clothing,979.39,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+28,Male,74,4,10,Clothing,297.17,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+18,Female,52,5,42,Electronics,891.19,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+61,Male,27,2,17,Electronics,177.5,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+62,Female,18,4,28,Electronics,317.78,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+50,Female,24,3,36,Electronics,121.22,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+45,Other,38,7,5,Home & Garden,144.0,2,Khách hàng lớn tuổi chi tiêu cao
+64,Male,81,5,30,Sports,505.24,2,Khách hàng lớn tuổi chi tiêu cao
+56,Male,20,10,35,Electronics,808.16,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+30,Female,93,9,43,Groceries,825.85,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+60,Male,99,10,3,Electronics,983.3,2,Khách hàng lớn tuổi chi tiêu cao
+26,Male,40,10,17,Groceries,307.42,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+57,Female,69,4,29,Groceries,570.87,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+22,Male,30,1,19,Home & Garden,661.7,1,Khách hàng trẻ - tiềm năng cao
+41,Other,68,8,21,Electronics,123.96,2,Khách hàng lớn tuổi chi tiêu cao
+63,Male,60,6,46,Groceries,90.96,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+31,Male,10,2,40,Home & Garden,34.1,1,Khách hàng trẻ - tiềm năng cao
+28,Other,4,1,44,Electronics,559.61,1,Khách hàng trẻ - tiềm năng cao
+52,Male,77,7,29,Groceries,622.86,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+61,Male,11,8,27,Clothing,744.56,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+30,Female,61,10,32,Electronics,213.88,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+19,Female,78,3,43,Home & Garden,679.67,1,Khách hàng trẻ - tiềm năng cao
+35,Male,36,6,4,Home & Garden,102.23,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+64,Other,29,1,17,Home & Garden,835.67,2,Khách hàng lớn tuổi chi tiêu cao
+27,Male,63,6,46,Sports,575.98,1,Khách hàng trẻ - tiềm năng cao
+47,Male,1,2,10,Home & Garden,618.2,1,Khách hàng trẻ - tiềm năng cao
+57,Male,42,9,8,Sports,971.83,2,Khách hàng lớn tuổi chi tiêu cao
+63,Male,12,2,19,Home & Garden,910.59,2,Khách hàng lớn tuổi chi tiêu cao
+61,Female,96,2,27,Sports,844.95,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+40,Other,87,2,13,Electronics,892.28,2,Khách hàng lớn tuổi chi tiêu cao
+41,Other,84,1,50,Clothing,60.51,1,Khách hàng trẻ - tiềm năng cao
+45,Other,1,6,46,Clothing,298.11,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+33,Other,80,3,44,Groceries,367.85,1,Khách hàng trẻ - tiềm năng cao
+19,Male,61,5,43,Sports,316.35,1,Khách hàng trẻ - tiềm năng cao
+61,Male,18,8,28,Groceries,709.33,2,Khách hàng lớn tuổi chi tiêu cao
+55,Other,3,10,43,Clothing,777.97,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+26,Female,78,9,5,Clothing,557.41,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+51,Female,42,7,12,Groceries,481.56,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+52,Male,19,5,50,Home & Garden,961.55,1,Khách hàng trẻ - tiềm năng cao
+24,Male,21,6,31,Sports,235.64,1,Khách hàng trẻ - tiềm năng cao
+31,Female,25,2,39,Groceries,355.67,1,Khách hàng trẻ - tiềm năng cao
+19,Other,93,6,43,Sports,412.99,1,Khách hàng trẻ - tiềm năng cao
+46,Female,83,7,28,Sports,270.15,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+56,Other,56,2,15,Electronics,830.79,2,Khách hàng lớn tuổi chi tiêu cao
+65,Other,2,8,30,Sports,491.8,2,Khách hàng lớn tuổi chi tiêu cao
+53,Male,10,2,38,Home & Garden,866.3,1,Khách hàng trẻ - tiềm năng cao
+22,Male,32,9,9,Electronics,819.14,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+39,Other,42,5,35,Clothing,196.61,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+47,Other,74,5,22,Groceries,438.95,2,Khách hàng lớn tuổi chi tiêu cao
+45,Female,22,10,24,Electronics,253.64,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+30,Male,61,1,27,Sports,614.39,1,Khách hàng trẻ - tiềm năng cao
+57,Other,65,10,43,Groceries,686.83,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+33,Male,71,8,22,Home & Garden,223.73,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+25,Female,77,5,13,Clothing,112.22,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+61,Male,66,1,32,Sports,674.93,1,Khách hàng trẻ - tiềm năng cao
+59,Female,89,6,3,Home & Garden,318.74,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+18,Other,38,8,7,Sports,442.42,1,Khách hàng trẻ - tiềm năng cao
+63,Female,26,1,26,Home & Garden,386.51,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+50,Male,58,2,3,Electronics,687.32,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+33,Female,11,4,42,Electronics,990.34,1,Khách hàng trẻ - tiềm năng cao
+47,Male,17,7,8,Home & Garden,997.15,2,Khách hàng lớn tuổi chi tiêu cao
+47,Male,54,3,49,Home & Garden,678.41,1,Khách hàng trẻ - tiềm năng cao
+68,Other,3,1,36,Sports,743.73,1,Khách hàng trẻ - tiềm năng cao
+25,Male,27,1,32,Clothing,648.79,1,Khách hàng trẻ - tiềm năng cao
+35,Other,40,3,15,Sports,333.55,1,Khách hàng trẻ - tiềm năng cao
+61,Other,33,8,1,Sports,165.39,2,Khách hàng lớn tuổi chi tiêu cao
+51,Male,96,3,42,Groceries,992.17,2,Khách hàng lớn tuổi chi tiêu cao
+64,Male,72,2,11,Groceries,192.17,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+59,Female,47,6,6,Groceries,246.07,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+51,Female,3,7,30,Sports,145.66,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+49,Male,92,10,25,Groceries,522.78,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+24,Male,6,1,28,Clothing,445.3,1,Khách hàng trẻ - tiềm năng cao
+33,Male,43,1,40,Groceries,785.52,1,Khách hàng trẻ - tiềm năng cao
+46,Other,35,8,49,Electronics,537.23,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+35,Male,27,7,40,Electronics,570.08,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+27,Female,50,5,17,Home & Garden,117.03,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+53,Other,73,6,35,Home & Garden,701.61,2,Khách hàng lớn tuổi chi tiêu cao
+19,Male,9,10,28,Sports,864.57,1,Khách hàng trẻ - tiềm năng cao
+56,Other,2,10,32,Home & Garden,849.56,2,Khách hàng lớn tuổi chi tiêu cao
+53,Female,87,8,23,Home & Garden,409.35,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+50,Other,71,9,28,Groceries,372.69,2,Khách hàng lớn tuổi chi tiêu cao
+37,Female,87,2,50,Groceries,646.4,1,Khách hàng trẻ - tiềm năng cao
+69,Male,32,3,6,Home & Garden,42.19,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+46,Other,2,9,22,Home & Garden,230.66,2,Khách hàng lớn tuổi chi tiêu cao
+52,Other,69,10,19,Sports,321.92,2,Khách hàng lớn tuổi chi tiêu cao
+41,Other,72,3,24,Groceries,897.46,2,Khách hàng lớn tuổi chi tiêu cao
+26,Female,31,7,9,Groceries,667.8,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+69,Male,54,6,24,Sports,846.68,2,Khách hàng lớn tuổi chi tiêu cao
+38,Female,57,5,3,Home & Garden,301.59,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+30,Female,16,1,2,Electronics,122.7,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+48,Male,41,9,17,Groceries,116.19,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+62,Other,58,6,24,Sports,921.21,2,Khách hàng lớn tuổi chi tiêu cao
+34,Male,72,7,13,Electronics,274.88,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+37,Male,33,8,40,Home & Garden,424.07,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+28,Male,17,5,17,Home & Garden,765.53,1,Khách hàng trẻ - tiềm năng cao
+43,Female,26,1,33,Home & Garden,836.5,1,Khách hàng trẻ - tiềm năng cao
+69,Other,22,1,3,Home & Garden,839.2,2,Khách hàng lớn tuổi chi tiêu cao
+43,Female,71,7,49,Sports,625.26,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+38,Male,98,8,35,Clothing,738.01,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+41,Female,75,2,33,Groceries,553.35,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+30,Other,29,3,3,Home & Garden,536.52,2,Khách hàng lớn tuổi chi tiêu cao
+69,Female,4,7,9,Groceries,443.22,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+57,Male,80,3,33,Electronics,934.98,2,Khách hàng lớn tuổi chi tiêu cao
+43,Male,9,5,24,Sports,531.25,1,Khách hàng trẻ - tiềm năng cao
+58,Female,96,6,31,Groceries,723.66,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+40,Male,64,6,15,Clothing,583.95,2,Khách hàng lớn tuổi chi tiêu cao
+33,Female,23,6,12,Sports,373.49,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+50,Other,28,2,39,Home & Garden,839.34,1,Khách hàng trẻ - tiềm năng cao
+43,Male,62,10,18,Home & Garden,78.52,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+45,Female,30,5,15,Electronics,998.09,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+60,Other,97,8,9,Electronics,793.84,2,Khách hàng lớn tuổi chi tiêu cao
+22,Male,47,1,49,Groceries,292.92,1,Khách hàng trẻ - tiềm năng cao
+60,Other,31,1,14,Clothing,122.12,2,Khách hàng lớn tuổi chi tiêu cao
+56,Female,87,7,8,Sports,291.96,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+48,Female,19,1,18,Clothing,311.08,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+51,Other,25,5,22,Groceries,847.03,2,Khách hàng lớn tuổi chi tiêu cao
+64,Female,88,1,16,Groceries,330.95,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+22,Other,75,1,4,Clothing,456.11,2,Khách hàng lớn tuổi chi tiêu cao
+27,Female,84,6,15,Groceries,268.76,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+18,Male,35,2,6,Sports,739.27,1,Khách hàng trẻ - tiềm năng cao
+45,Other,67,2,46,Groceries,524.16,1,Khách hàng trẻ - tiềm năng cao
+19,Female,75,10,23,Home & Garden,866.23,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+67,Male,56,4,6,Clothing,151.74,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+22,Male,2,10,22,Electronics,469.36,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+22,Male,3,7,46,Electronics,737.44,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+21,Other,3,4,25,Home & Garden,676.93,1,Khách hàng trẻ - tiềm năng cao
+20,Male,64,7,46,Clothing,129.9,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+42,Other,73,10,43,Groceries,787.66,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+41,Male,28,10,48,Electronics,594.96,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+57,Other,26,1,17,Groceries,610.98,2,Khách hàng lớn tuổi chi tiêu cao
+22,Male,57,2,24,Electronics,683.02,1,Khách hàng trẻ - tiềm năng cao
+68,Other,72,6,33,Sports,983.84,2,Khách hàng lớn tuổi chi tiêu cao
+51,Other,83,1,19,Clothing,30.88,2,Khách hàng lớn tuổi chi tiêu cao
+49,Female,47,5,16,Home & Garden,241.25,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+57,Other,6,6,44,Home & Garden,312.64,1,Khách hàng trẻ - tiềm năng cao
+57,Female,86,10,40,Home & Garden,727.15,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+63,Male,18,9,31,Sports,191.8,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+42,Female,54,1,31,Clothing,484.72,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+35,Male,70,1,28,Groceries,304.08,1,Khách hàng trẻ - tiềm năng cao
+25,Female,99,10,32,Home & Garden,472.4,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+60,Other,68,9,26,Sports,600.21,2,Khách hàng lớn tuổi chi tiêu cao
+51,Female,27,3,45,Home & Garden,412.76,1,Khách hàng trẻ - tiềm năng cao
+45,Female,61,5,41,Home & Garden,246.41,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+51,Male,68,1,18,Sports,863.54,1,Khách hàng trẻ - tiềm năng cao
+59,Other,63,2,22,Groceries,329.18,2,Khách hàng lớn tuổi chi tiêu cao
+47,Female,93,2,21,Groceries,11.01,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+61,Male,22,6,12,Clothing,678.13,2,Khách hàng lớn tuổi chi tiêu cao
+62,Other,100,1,5,Home & Garden,439.63,2,Khách hàng lớn tuổi chi tiêu cao
+50,Female,70,5,6,Clothing,241.99,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+58,Other,70,9,23,Electronics,374.59,2,Khách hàng lớn tuổi chi tiêu cao
+26,Other,70,7,28,Sports,679.69,1,Khách hàng trẻ - tiềm năng cao
+60,Male,38,2,28,Groceries,940.14,2,Khách hàng lớn tuổi chi tiêu cao
+29,Male,2,2,19,Groceries,437.1,1,Khách hàng trẻ - tiềm năng cao
+33,Other,92,6,10,Sports,486.86,2,Khách hàng lớn tuổi chi tiêu cao
+60,Other,77,3,31,Clothing,581.15,2,Khách hàng lớn tuổi chi tiêu cao
+22,Other,19,7,39,Sports,20.52,1,Khách hàng trẻ - tiềm năng cao
+66,Other,5,1,48,Sports,546.06,1,Khách hàng trẻ - tiềm năng cao
+24,Female,92,5,29,Home & Garden,320.7,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+63,Other,25,8,40,Sports,758.1,2,Khách hàng lớn tuổi chi tiêu cao
+27,Male,3,5,2,Home & Garden,140.52,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+53,Male,34,1,26,Sports,952.12,1,Khách hàng trẻ - tiềm năng cao
+32,Male,96,9,49,Electronics,77.45,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+64,Other,57,3,7,Home & Garden,97.97,2,Khách hàng lớn tuổi chi tiêu cao
+48,Male,32,2,7,Electronics,535.1,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+52,Female,1,10,46,Home & Garden,720.52,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+57,Female,46,8,3,Home & Garden,442.46,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+55,Female,39,2,6,Home & Garden,207.44,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+33,Other,23,7,3,Sports,609.8,2,Khách hàng lớn tuổi chi tiêu cao
+64,Female,87,2,5,Groceries,344.59,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+64,Male,77,6,26,Sports,71.97,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+25,Male,100,4,41,Electronics,355.45,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+62,Other,19,1,13,Home & Garden,427.68,2,Khách hàng lớn tuổi chi tiêu cao
+59,Other,27,8,30,Sports,95.96,2,Khách hàng lớn tuổi chi tiêu cao
+27,Female,49,8,12,Groceries,831.05,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+55,Other,68,3,30,Groceries,628.34,2,Khách hàng lớn tuổi chi tiêu cao
+66,Female,93,3,19,Electronics,684.88,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+54,Male,9,7,30,Clothing,932.68,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+38,Male,100,10,22,Electronics,99.63,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+55,Male,72,10,47,Electronics,438.97,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+18,Other,83,6,32,Sports,236.83,1,Khách hàng trẻ - tiềm năng cao
+26,Male,23,7,22,Groceries,844.88,1,Khách hàng trẻ - tiềm năng cao
+49,Other,83,4,38,Electronics,564.48,2,Khách hàng lớn tuổi chi tiêu cao
+36,Female,74,6,19,Groceries,135.23,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+28,Other,82,5,2,Home & Garden,271.17,2,Khách hàng lớn tuổi chi tiêu cao
+60,Other,84,7,28,Electronics,678.42,2,Khách hàng lớn tuổi chi tiêu cao
+66,Male,73,7,47,Home & Garden,666.62,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+58,Male,51,3,27,Clothing,344.39,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+68,Male,73,4,2,Sports,136.03,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+20,Male,56,2,28,Groceries,240.93,1,Khách hàng trẻ - tiềm năng cao
+53,Other,22,6,42,Home & Garden,536.06,1,Khách hàng trẻ - tiềm năng cao
+39,Female,41,9,3,Groceries,12.45,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+46,Other,11,7,17,Home & Garden,869.05,2,Khách hàng lớn tuổi chi tiêu cao
+28,Male,43,10,25,Clothing,557.04,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+35,Male,43,2,5,Electronics,746.74,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+42,Other,8,8,44,Groceries,316.5,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+59,Male,6,8,26,Home & Garden,36.76,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+31,Other,32,9,11,Sports,562.47,2,Khách hàng lớn tuổi chi tiêu cao
+18,Male,84,3,24,Electronics,413.27,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+47,Male,53,2,38,Groceries,129.08,1,Khách hàng trẻ - tiềm năng cao
+48,Other,2,3,26,Clothing,748.46,2,Khách hàng lớn tuổi chi tiêu cao
+51,Male,17,1,50,Home & Garden,302.81,1,Khách hàng trẻ - tiềm năng cao
+43,Female,76,1,50,Home & Garden,106.48,1,Khách hàng trẻ - tiềm năng cao
+64,Other,23,5,24,Clothing,351.94,2,Khách hàng lớn tuổi chi tiêu cao
+37,Male,84,3,37,Home & Garden,785.53,1,Khách hàng trẻ - tiềm năng cao
+56,Female,3,9,25,Home & Garden,666.01,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+54,Male,64,9,1,Clothing,371.93,2,Khách hàng lớn tuổi chi tiêu cao
+36,Male,69,7,21,Sports,651.8,1,Khách hàng trẻ - tiềm năng cao
+54,Female,100,1,25,Electronics,30.51,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+47,Other,76,5,34,Electronics,880.18,2,Khách hàng lớn tuổi chi tiêu cao
+65,Male,81,5,38,Clothing,594.92,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+59,Male,80,7,37,Groceries,406.6,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+60,Other,40,10,8,Groceries,190.34,2,Khách hàng lớn tuổi chi tiêu cao
+21,Other,34,3,32,Sports,256.98,1,Khách hàng trẻ - tiềm năng cao
+62,Other,37,5,17,Sports,150.62,2,Khách hàng lớn tuổi chi tiêu cao
+45,Other,38,3,9,Groceries,663.25,2,Khách hàng lớn tuổi chi tiêu cao
+41,Other,7,10,50,Electronics,556.1,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+29,Female,54,8,45,Groceries,915.62,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+51,Male,43,9,36,Sports,593.92,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+44,Male,20,4,8,Electronics,209.75,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+30,Male,89,9,22,Sports,630.37,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+60,Other,68,1,40,Groceries,296.76,2,Khách hàng lớn tuổi chi tiêu cao
+60,Female,69,9,32,Groceries,894.95,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+26,Female,37,9,44,Clothing,100.64,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+38,Female,59,6,4,Groceries,174.22,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+61,Female,76,9,42,Clothing,957.5,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+23,Female,96,2,12,Home & Garden,231.03,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+60,Male,71,9,45,Groceries,725.67,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+66,Female,1,9,33,Groceries,654.48,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+26,Other,91,2,44,Sports,660.05,1,Khách hàng trẻ - tiềm năng cao
+49,Other,4,10,5,Electronics,287.36,2,Khách hàng lớn tuổi chi tiêu cao
+58,Other,92,10,14,Home & Garden,628.3,2,Khách hàng lớn tuổi chi tiêu cao
+46,Female,80,6,25,Sports,350.08,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+23,Female,16,2,42,Groceries,626.05,1,Khách hàng trẻ - tiềm năng cao
+61,Other,79,8,40,Sports,724.23,2,Khách hàng lớn tuổi chi tiêu cao
+68,Female,28,3,33,Groceries,40.89,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+58,Female,14,4,21,Home & Garden,733.63,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+41,Male,79,5,44,Clothing,942.03,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+43,Male,34,10,5,Groceries,833.69,2,Khách hàng lớn tuổi chi tiêu cao
+48,Other,84,6,41,Electronics,711.37,2,Khách hàng lớn tuổi chi tiêu cao
+49,Female,26,5,12,Home & Garden,935.73,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+30,Male,12,9,13,Electronics,724.88,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+37,Male,71,5,19,Groceries,692.74,2,Khách hàng lớn tuổi chi tiêu cao
+45,Female,48,8,16,Sports,253.13,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+66,Female,100,6,17,Sports,318.7,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+45,Female,11,9,42,Clothing,422.93,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+30,Male,32,1,49,Home & Garden,129.35,1,Khách hàng trẻ - tiềm năng cao
+59,Other,79,9,28,Groceries,491.55,2,Khách hàng lớn tuổi chi tiêu cao
+68,Female,76,7,38,Electronics,363.94,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+51,Other,27,9,49,Electronics,990.87,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+35,Other,66,4,9,Sports,683.93,2,Khách hàng lớn tuổi chi tiêu cao
+66,Other,2,10,9,Home & Garden,579.27,2,Khách hàng lớn tuổi chi tiêu cao
+22,Male,1,10,47,Sports,16.97,1,Khách hàng trẻ - tiềm năng cao
+26,Male,78,5,14,Groceries,99.19,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+26,Male,93,1,32,Home & Garden,750.58,1,Khách hàng trẻ - tiềm năng cao
+31,Other,36,2,31,Electronics,864.67,1,Khách hàng trẻ - tiềm năng cao
+21,Other,41,4,26,Sports,458.93,1,Khách hàng trẻ - tiềm năng cao
+53,Other,97,5,50,Sports,917.08,2,Khách hàng lớn tuổi chi tiêu cao
+22,Female,57,8,27,Home & Garden,139.75,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+29,Female,42,5,19,Electronics,967.26,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+60,Male,25,2,40,Clothing,986.97,2,Khách hàng lớn tuổi chi tiêu cao
+57,Male,57,6,1,Clothing,313.64,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
+23,Other,76,10,23,Groceries,632.83,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+23,Male,40,5,42,Sports,75.09,1,Khách hàng trẻ - tiềm năng cao
+22,Female,63,7,44,Electronics,505.16,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+36,Female,7,2,31,Groceries,669.26,1,Khách hàng trẻ - tiềm năng cao

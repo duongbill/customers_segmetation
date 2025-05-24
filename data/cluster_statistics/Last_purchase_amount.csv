@@ -1,0 +1,5 @@
+mean,min,max,Cluster,Description
+477.87,13.16,998.98,0,Khách hàng trung niên chi tiêu cao - tần suất mua hàng lớn
+508.02,13.69,994.1,1,Khách hàng trẻ - tiềm năng cao
+614.08,10.4,997.24,2,Khách hàng lớn tuổi chi tiêu cao
+377.98,11.01,999.74,3,"Khách hàng tần suất mua hàng ít, chi tiêu thấp"
